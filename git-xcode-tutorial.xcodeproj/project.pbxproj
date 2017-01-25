@@ -505,6 +505,7 @@
 				A96B18291E382AE20021DB6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A96B182A1E382AE20021DB6D /* Build configuration list for PBXNativeTarget "git-xcode-tutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				A96B182C1E382AE20021DB6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A96B182D1E382AE20021DB6D /* Build configuration list for PBXNativeTarget "git-xcode-tutorialUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				A96B182F1E382AE20021DB6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
